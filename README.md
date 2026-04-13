@@ -12,9 +12,9 @@ Utilizando (`if` `elif` e `elf`) para identificar a opção escolhida e mostrar 
 #🕹 Tecnologia utilizada: python
 
 #📖 Conhecimentos aplicados 
-- print 
-- if
-- elif
-- elf
+- `print`
+- `if`
+- `elif`
+- `elf`
 - variáveis
 - saída de dados 
