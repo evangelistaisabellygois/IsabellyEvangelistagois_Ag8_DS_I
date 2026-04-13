@@ -16,5 +16,5 @@ Utilizando (`if` `elif` e `elf`) para identificar a opção escolhida e mostrar 
 - `if`
 - `elif`
 - `elf`
-- variáveis
+- `variáveis`
 - saída de dados 
