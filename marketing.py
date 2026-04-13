@@ -12,6 +12,7 @@ elif Avaliação == 2:
 elif Avaliação == 3:    
     resultado = "RUIM"
 else:  resultado = "AVALIAÇÃO INVÁLIDA"
+    
 #RESULTADO FINAL(agradecimentos)
 print("Sua avaliação foi: ", resultado)
 print("Obrigada pelo feedback!")
