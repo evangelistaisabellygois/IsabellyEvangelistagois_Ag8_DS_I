@@ -1,7 +1,7 @@
 print("Olá, deixe aqui sua avaliação para nos ajudar:")
 print("1 - PERFEITO")
 print("2 - SATISFATÓRIO")
-print("1 - RUIM")
+print("3 - RUIM")
 
 Avaliação = int(input("Deixe aqui sua avaliação(1 , 2 ou 3): "))
 #RESULTADOS DAS AVALIAÇÕES
